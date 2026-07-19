@@ -1,0 +1,301 @@
+Order ID,Order Date,Customer Name,Product_ Name,Category Name,QTY, Unit Price ($),PAYMENT_MODE,Is_Shipped,Review Rating
+ORD_1203,2026-05-16,ALICE SMITH,usb-c cable,elec.,3.0,99.99,CREDIT CARD,no,
+ORD_1266,2026-01-16,Alice Smith,usb-c cable,ACCESSORIES,1.0,699.99,Credit Card,Yes,1.0
+ORD_1152,2026-06-24,ALICE SMITH,laptop Pro,ACCESSORIES,5.0,99.99,  crypto ,no,2.0
+ORD_1009,2026-05-20,,Smart Watch,  Computers ,5.0,-45.0,,Yes,1.0
+ORD_1233,2026-02-28,bob johnson,wireless mouse,,2.0,29.99,paypal,no,
+ORD_1226,2026-02-28,, iPhone 15 ,ACCESSORIES,,-45.0,Credit Card,,3.0
+ORD_1196,2026-02-02,bob johnson,wireless mouse,  Computers ,5.0,,Cash,Yes,2.0
+ORD_1109,2026-03-22,Emma W.,Smart Watch,ACCESSORIES,1.0,699.99,  crypto ,N,99.0
+ORD_1005,2026-02-27,ALICE SMITH,wireless mouse,Electronics,3.0,29.99,Cash,Yes,2.0
+ORD_1175,2026-04-06,,headPHONES,elec.,4.0,-45.0,paypal,N,4.0
+ORD_1237,2026-01-19,,headPHONES,  Computers ,,29.99,,Yes,99.0
+ORD_1057,2026-06-08,Alice Smith,usb-c cable,Accessories,4.0,29.99,Credit Card,N,5.0
+ORD_1218,2026-01-31,, iPhone 15 ,ACCESSORIES,4.0,,Cash,no,4.0
+ORD_1045,2026-03-30,Alice Smith,usb-c cable,Accessories,2.0,,Credit Card,YES,3.0
+ORD_1182,2026-05-06,Alice Smith,headPHONES,ACCESSORIES,100.0,1099.99,Cash,YES,99.0
+ORD_1221,2026-01-17,bob johnson,LAPTOP PRO,elec.,10.0,99.99,paypal,no,99.0
+ORD_1289,2026-01-24,David G.,Smart Watch,  Computers ,10.0,99.99,  crypto ,,99.0
+ORD_1211,2026-04-13,bob johnson,Smart Watch,Electronics,2.0,99.99,Credit Card,YES,3.0
+ORD_1148,2026-05-22,Emma W.,Smart Watch,Accessories,3.0,-45.0,,,4.0
+ORD_1165,2026-02-15, Charlie Brown, iPhone 15 ,Electronics,5.0,699.99,,,5.0
+ORD_1078,2026-02-23,ALICE SMITH,LAPTOP PRO,ACCESSORIES,,699.99,CREDIT CARD,N,5.0
+ORD_1113,2026-04-12,Emma W.,LAPTOP PRO,elec.,4.0,99.99,  crypto ,Yes,
+ORD_1249,2026-03-04,Alice Smith,laptop Pro,  Computers ,4.0,29.99,  crypto ,no,2.0
+ORD_1250,2026-05-02,Alice Smith,usb-c cable,Accessories,100.0,699.99,,N,1.0
+ORD_1104,2026-04-13,David G.,laptop Pro,,2.0,,,N,
+ORD_1042,2026-04-08,Alice Smith,headPHONES,ACCESSORIES,4.0,,  crypto ,Yes,4.0
+ORD_1281,2026-01-20,Emma W.,headPHONES,Electronics,5.0,,CREDIT CARD,no,99.0
+ORD_1273,2026-05-18,ALICE SMITH,headPHONES,elec.,4.0,-45.0,  crypto ,no,
+ORD_1157,2026-01-29,Alice Smith,laptop Pro,ACCESSORIES,4.0,,,Yes,4.0
+ORD_1238,2026-05-12,Alice Smith,headPHONES,elec.,100.0,699.99,paypal,N,5.0
+ORD_1017,2026-03-01,David G.,laptop Pro,Accessories,2.0,,Cash,no,3.0
+ORD_1164,2026-05-09,,LAPTOP PRO,ACCESSORIES,5.0,99.99,CREDIT CARD,,2.0
+ORD_1033,2026-06-28,Alice Smith,wireless mouse,elec.,100.0,29.99,CREDIT CARD,no,5.0
+ORD_1024,2026-06-29,bob johnson, iPhone 15 ,ACCESSORIES,10.0,29.99,CREDIT CARD,N,3.0
+ORD_1215,2026-04-23,ALICE SMITH,Smart Watch,ACCESSORIES,,29.99,Credit Card,,
+ORD_1119,2026-03-05,Emma W.,headPHONES,,3.0,699.99,,YES,99.0
+ORD_1007,2026-01-27,ALICE SMITH,usb-c cable,Accessories,,1099.99,  crypto ,YES,3.0
+ORD_1090,2026-02-11,David G.,headPHONES,Accessories,10.0,699.99,Cash,N,3.0
+ORD_1046,2026-06-04,David G., iPhone 15 ,Accessories,3.0,699.99,Cash,Yes,99.0
+ORD_1073,2026-06-12,ALICE SMITH,usb-c cable,  Computers ,,699.99,CREDIT CARD,YES,4.0
+ORD_1093,2026-03-11, Charlie Brown,laptop Pro,,2.0,29.99,,no,5.0
+ORD_1076,2026-04-05,Emma W.,usb-c cable,elec.,4.0,,Cash,N,2.0
+ORD_1286,2026-06-16,Alice Smith,Smart Watch,ACCESSORIES,1.0,99.99,,no,5.0
+ORD_1060,2026-02-19,ALICE SMITH,headPHONES,Accessories,5.0,-45.0,Credit Card,,2.0
+ORD_1077,2026-04-01, Charlie Brown,usb-c cable,,4.0,699.99,Cash,,5.0
+ORD_1063,2026-01-12,David G., iPhone 15 ,elec.,5.0,1099.99,paypal,N,5.0
+ORD_1234,2026-01-18,ALICE SMITH,headPHONES,elec.,2.0,1099.99,Credit Card,,4.0
+ORD_1229,2026-01-02,bob johnson,wireless mouse,elec.,1.0,699.99,,Yes,3.0
+ORD_1111,2026-06-17,David G.,wireless mouse,Accessories,4.0,-45.0,Credit Card,YES,99.0
+ORD_1231,2026-06-11,Alice Smith,LAPTOP PRO,,5.0,1099.99,CREDIT CARD,,
+ORD_1180,2026-06-03,bob johnson,wireless mouse,Electronics,1.0,1099.99,,Yes,
+ORD_1144,2026-06-02,Alice Smith,laptop Pro,Accessories,5.0,699.99,  crypto ,Yes,2.0
+ORD_1239,2026-03-02,,LAPTOP PRO,,10.0,-45.0,,,3.0
+ORD_1075,2026-02-11,Emma W.,laptop Pro,Electronics,10.0,699.99,CREDIT CARD,YES,4.0
+ORD_1084,2026-01-19,David G.,usb-c cable,,,29.99,CREDIT CARD,YES,4.0
+ORD_1278,2026-03-13,Emma W.,usb-c cable,,5.0,99.99,Cash,N,3.0
+ORD_1097,2026-02-26, Charlie Brown,LAPTOP PRO,  Computers ,,699.99,CREDIT CARD,N,5.0
+ORD_1092,2026-04-08,bob johnson,laptop Pro,ACCESSORIES,100.0,-45.0,CREDIT CARD,,99.0
+ORD_1192,2026-01-22,,Smart Watch,  Computers ,3.0,1099.99,paypal,no,2.0
+ORD_1025,2026-05-20,Alice Smith,wireless mouse,Electronics,100.0,1099.99,  crypto ,no,
+ORD_1232,2026-01-16,Emma W.,wireless mouse,  Computers ,100.0,,paypal,YES,3.0
+ORD_1059,2026-05-28,Alice Smith,laptop Pro,ACCESSORIES,2.0,,,YES,99.0
+ORD_1006,2026-02-05,Alice Smith,LAPTOP PRO,,10.0,1099.99,,N,5.0
+ORD_1185,2026-04-03,David G.,headPHONES,  Computers ,3.0,1099.99,Cash,N,
+ORD_1173,2026-02-20, Charlie Brown, iPhone 15 ,Electronics,4.0,99.99,paypal,YES,3.0
+ORD_1030,2026-03-13,Emma W.,Smart Watch,,3.0,1099.99,Credit Card,YES,1.0
+ORD_1022,2026-02-20,bob johnson,Smart Watch,Electronics,1.0,,  crypto ,no,4.0
+ORD_1256,2026-04-21,Alice Smith, iPhone 15 ,,10.0,29.99,paypal,,1.0
+ORD_1056,2026-06-10,David G.,laptop Pro,ACCESSORIES,,,Cash,no,3.0
+ORD_1186,2026-03-20,,LAPTOP PRO,elec.,2.0,1099.99,  crypto ,,99.0
+ORD_1108,2026-05-26,Alice Smith,Smart Watch,,100.0,699.99,paypal,no,3.0
+ORD_1126,2026-04-13,Emma W.,LAPTOP PRO,ACCESSORIES,10.0,1099.99,Cash,,5.0
+ORD_1230,2026-01-19,bob johnson,laptop Pro,Accessories,1.0,29.99,,Yes,4.0
+ORD_1193,2026-05-05,bob johnson,laptop Pro,ACCESSORIES,10.0,29.99,CREDIT CARD,N,3.0
+ORD_1129,2026-02-05,Emma W.,laptop Pro,  Computers ,3.0,-45.0,Credit Card,Yes,5.0
+ORD_1282,2026-04-24,Emma W.,headPHONES,elec.,3.0,,paypal,no,1.0
+ORD_1082,2026-06-24,Alice Smith,laptop Pro,,10.0,29.99,,N,3.0
+ORD_1084,2026-01-19,David G.,usb-c cable,,,29.99,CREDIT CARD,YES,4.0
+ORD_1066,2026-03-16, Charlie Brown,LAPTOP PRO,Accessories,5.0,1099.99,,,1.0
+ORD_1288,2026-01-04, Charlie Brown,wireless mouse,elec.,4.0,99.99,Credit Card,N,
+ORD_1163,2026-03-09,Alice Smith,LAPTOP PRO,Accessories,10.0,699.99,Cash,YES,
+ORD_1154,2026-03-10,Emma W.,usb-c cable,Electronics,5.0,,paypal,YES,5.0
+ORD_1019,2026-06-04,Emma W.,Smart Watch,  Computers ,1.0,-45.0,,YES,1.0
+ORD_1124,2026-04-20,David G.,headPHONES,elec.,1.0,-45.0,,no,
+ORD_1079,2026-06-21, Charlie Brown,LAPTOP PRO,ACCESSORIES,4.0,99.99,,no,2.0
+ORD_1114,2026-06-14,Alice Smith,Smart Watch,Electronics,2.0,99.99,Cash,,1.0
+ORD_1118,2026-02-05,Alice Smith,LAPTOP PRO,Electronics,100.0,29.99,,N,
+ORD_1072,2026-04-27, Charlie Brown,LAPTOP PRO,Electronics,10.0,29.99,paypal,Yes,99.0
+ORD_1015,2026-01-24,Emma W.,usb-c cable,ACCESSORIES,5.0,-45.0,Cash,,
+ORD_1010,2026-01-23,,laptop Pro,Electronics,,-45.0,  crypto ,YES,3.0
+ORD_1194,2026-01-18,,LAPTOP PRO,Accessories,5.0,699.99,Credit Card,,5.0
+ORD_1101,2026-02-28,David G.,headPHONES,  Computers ,5.0,699.99,paypal,no,1.0
+ORD_1068,2026-03-01,Emma W.,headPHONES,  Computers ,3.0,1099.99,Cash,,1.0
+ORD_1224,2026-05-31, Charlie Brown,LAPTOP PRO,Accessories,100.0,,CREDIT CARD,,3.0
+ORD_1037,2026-02-09,,usb-c cable,Accessories,3.0,99.99,  crypto ,,5.0
+ORD_1016,2026-02-25,,usb-c cable,,10.0,29.99,Credit Card,YES,4.0
+ORD_1179,2026-01-01,Emma W., iPhone 15 ,elec.,2.0,699.99,CREDIT CARD,,3.0
+ORD_1147,2026-03-06,bob johnson,wireless mouse,  Computers ,5.0,99.99,Credit Card,Yes,3.0
+ORD_1274,2026-04-25,Alice Smith,wireless mouse,,4.0,,paypal,no,2.0
+ORD_1067,2026-01-21,bob johnson,Smart Watch,Accessories,100.0,699.99,Cash,no,1.0
+ORD_1228,2026-02-26,,LAPTOP PRO,,3.0,,Credit Card,Yes,1.0
+ORD_1069,2026-01-26,Emma W.,headPHONES,,100.0,1099.99,  crypto ,YES,2.0
+ORD_1031,2026-01-02, Charlie Brown,Smart Watch,elec.,5.0,,Credit Card,no,4.0
+ORD_1183,2026-01-05, Charlie Brown,LAPTOP PRO,  Computers ,1.0,1099.99,Cash,Yes,
+ORD_1265,2026-01-26,David G.,LAPTOP PRO,Electronics,1.0,1099.99,Credit Card,,2.0
+ORD_1225,2026-05-22, Charlie Brown,laptop Pro,,5.0,99.99,paypal,YES,1.0
+ORD_1140,2026-06-02,ALICE SMITH,LAPTOP PRO,Electronics,4.0,699.99,Credit Card,Yes,1.0
+ORD_1018,2026-05-10,Emma W.,Smart Watch,Electronics,,,Cash,Yes,5.0
+ORD_1181,2026-03-24,Emma W.,wireless mouse,  Computers ,5.0,,  crypto ,no,99.0
+ORD_1096,2026-05-23, Charlie Brown,Smart Watch,,3.0,-45.0,paypal,,
+ORD_1132,2026-01-24, Charlie Brown,wireless mouse,Accessories,3.0,-45.0,paypal,N,5.0
+ORD_1262,2026-06-22, Charlie Brown,laptop Pro,ACCESSORIES,100.0,1099.99,,no,1.0
+ORD_1086,2026-06-12,Alice Smith,headPHONES,ACCESSORIES,3.0,1099.99,CREDIT CARD,N,
+ORD_1248,2026-05-02, Charlie Brown,wireless mouse,,10.0,1099.99,paypal,Yes,2.0
+ORD_1245,2026-02-03,Emma W.,usb-c cable,elec.,,1099.99,Credit Card,YES,5.0
+ORD_1116,2026-02-06, Charlie Brown,usb-c cable,elec.,2.0,1099.99,CREDIT CARD,,4.0
+ORD_1146,2026-05-16,,wireless mouse,Electronics,100.0,99.99,  crypto ,YES,4.0
+ORD_1292,2026-04-15,,LAPTOP PRO,ACCESSORIES,5.0,,  crypto ,YES,4.0
+ORD_1197,2026-02-02,ALICE SMITH,LAPTOP PRO,Electronics,100.0,-45.0,CREDIT CARD,,3.0
+ORD_1206,2026-02-24,,usb-c cable,Electronics,10.0,29.99,CREDIT CARD,YES,4.0
+ORD_1055,2026-03-17,David G.,headPHONES,,3.0,29.99,Credit Card,YES,99.0
+ORD_1172,2026-06-05, Charlie Brown,usb-c cable,,5.0,29.99,Cash,Yes,4.0
+ORD_1184,2026-01-29,,headPHONES,  Computers ,10.0,-45.0,CREDIT CARD,N,
+ORD_1167,2026-01-28,David G.,headPHONES,ACCESSORIES,,,paypal,N,5.0
+ORD_1139,2026-04-19,Emma W.,wireless mouse,Accessories,3.0,99.99,paypal,no,2.0
+ORD_1253,2026-01-25,David G.,usb-c cable,ACCESSORIES,10.0,1099.99,Cash,N,2.0
+ORD_1038,2026-02-25,David G.,laptop Pro,  Computers ,5.0,29.99,  crypto ,N,3.0
+ORD_1125,2026-05-30,bob johnson,LAPTOP PRO,,5.0,99.99,,N,1.0
+ORD_1195,2026-05-17,,laptop Pro,  Computers ,3.0,,,Yes,3.0
+ORD_1283,2026-05-21,bob johnson,laptop Pro,ACCESSORIES,2.0,99.99,  crypto ,YES,
+ORD_1137,2026-02-10,Alice Smith,usb-c cable,Accessories,4.0,699.99,paypal,no,99.0
+ORD_1112,2026-05-08, Charlie Brown,headPHONES,Accessories,5.0,-45.0,CREDIT CARD,N,
+ORD_1168,2026-06-10,bob johnson,LAPTOP PRO,ACCESSORIES,5.0,699.99,Cash,,3.0
+ORD_1117,2026-03-09,Alice Smith,Smart Watch,Accessories,2.0,99.99,paypal,YES,3.0
+ORD_1277,2026-02-16,David G.,Smart Watch,Electronics,1.0,-45.0,CREDIT CARD,YES,3.0
+ORD_1271,2026-02-19,Alice Smith,usb-c cable,Electronics,2.0,99.99,,YES,4.0
+ORD_1155,2026-06-14,ALICE SMITH,laptop Pro,  Computers ,100.0,29.99,paypal,,99.0
+ORD_1176,2026-02-11,Alice Smith,Smart Watch,  Computers ,4.0,29.99,CREDIT CARD,,5.0
+ORD_1178,2026-05-16,bob johnson,LAPTOP PRO,Electronics,3.0,29.99,paypal,N,5.0
+ORD_1002,2026-01-07,ALICE SMITH,wireless mouse,,10.0,-45.0,Cash,Yes,5.0
+ORD_1115,2026-04-28,bob johnson,headPHONES,,,,,no,5.0
+ORD_1143,2026-04-08,Alice Smith,wireless mouse,elec.,100.0,699.99,  crypto ,N,1.0
+ORD_1177,2026-05-19, Charlie Brown,LAPTOP PRO,Accessories,5.0,,Cash,N,3.0
+ORD_1120,2026-05-24,David G.,Smart Watch,  Computers ,5.0,-45.0,,YES,99.0
+ORD_1210,2026-03-21, Charlie Brown,laptop Pro,  Computers ,5.0,99.99,Cash,,
+ORD_1260,2026-04-30,Emma W., iPhone 15 ,  Computers ,4.0,1099.99,paypal,YES,
+ORD_1127,2026-04-03, Charlie Brown,wireless mouse,Accessories,10.0,-45.0,  crypto ,N,4.0
+ORD_1074,2026-04-04,bob johnson,Smart Watch,elec.,100.0,1099.99,CREDIT CARD,YES,5.0
+ORD_1029,2026-05-31,Alice Smith,headPHONES,ACCESSORIES,5.0,29.99,Cash,Yes,3.0
+ORD_1083,2026-06-15,ALICE SMITH,usb-c cable,ACCESSORIES,100.0,29.99,,Yes,2.0
+ORD_1269,2026-01-28,bob johnson,laptop Pro,  Computers ,3.0,99.99,  crypto ,N,4.0
+ORD_1107,2026-02-24,David G.,usb-c cable,Accessories,10.0,-45.0,Cash,,5.0
+ORD_1223,2026-01-06,ALICE SMITH,headPHONES,,2.0,-45.0,Credit Card,,2.0
+ORD_1158,2026-03-17,Alice Smith, iPhone 15 ,ACCESSORIES,,-45.0,  crypto ,no,99.0
+ORD_1280,2026-03-05,Emma W., iPhone 15 ,  Computers ,3.0,699.99,  crypto ,N,1.0
+ORD_1246,2026-05-27,,Smart Watch,Accessories,5.0,699.99,CREDIT CARD,N,
+ORD_1222,2026-03-28,,laptop Pro,Accessories,4.0,1099.99,Cash,no,99.0
+ORD_1065,2026-02-28, Charlie Brown,laptop Pro,Accessories,5.0,99.99,paypal,N,5.0
+ORD_1198,2026-06-18,Alice Smith,LAPTOP PRO,  Computers ,5.0,1099.99,  crypto ,no,99.0
+ORD_1085,2026-06-05,David G., iPhone 15 ,,,29.99,Credit Card,,5.0
+ORD_1213,2026-06-16,Emma W., iPhone 15 ,Electronics,10.0,699.99,Cash,YES,1.0
+ORD_1159,2026-04-22,Alice Smith,LAPTOP PRO,ACCESSORIES,100.0,99.99,paypal,no,99.0
+ORD_1012,2026-04-19, Charlie Brown,LAPTOP PRO,Electronics,100.0,1099.99,,YES,5.0
+ORD_1035,2026-03-29,ALICE SMITH,LAPTOP PRO,  Computers ,1.0,699.99,,YES,2.0
+ORD_1028,2026-04-25,David G.,LAPTOP PRO,,4.0,,Cash,N,4.0
+ORD_1142,2026-04-09, Charlie Brown,usb-c cable,  Computers ,5.0,699.99,Credit Card,no,
+ORD_1284,2026-01-26, Charlie Brown,wireless mouse,  Computers ,1.0,99.99,Cash,,5.0
+ORD_1254,2026-01-25, Charlie Brown, iPhone 15 ,,2.0,,Credit Card,no,
+ORD_1170,2026-06-13,bob johnson,headPHONES,  Computers ,1.0,-45.0,CREDIT CARD,,4.0
+ORD_1051,2026-02-01,ALICE SMITH,Smart Watch,elec.,100.0,1099.99,  crypto ,N,2.0
+ORD_1095,2026-06-26,bob johnson,usb-c cable,Accessories,1.0,-45.0,  crypto ,no,4.0
+ORD_1208,2026-06-26,,headPHONES,elec.,,99.99,  crypto ,YES,5.0
+ORD_1247,2026-05-28,David G., iPhone 15 ,  Computers ,1.0,29.99,paypal,Yes,5.0
+ORD_1041,2026-01-24,David G.,headPHONES,ACCESSORIES,2.0,-45.0,Cash,YES,5.0
+ORD_1089,2026-03-04,bob johnson, iPhone 15 ,Electronics,3.0,,,Yes,5.0
+ORD_1244,2026-05-19,ALICE SMITH, iPhone 15 ,Electronics,100.0,,Credit Card,N,1.0
+ORD_1136,2026-06-10,,LAPTOP PRO,elec.,,,paypal,N,2.0
+ORD_1026,2026-04-18,David G.,wireless mouse,ACCESSORIES,100.0,1099.99,Credit Card,no,3.0
+ORD_1293,2026-05-05,Alice Smith,usb-c cable,Electronics,1.0,29.99,  crypto ,N,99.0
+ORD_1141,2026-01-17,, iPhone 15 ,,100.0,,CREDIT CARD,N,5.0
+ORD_1200,2026-05-21,Emma W.,LAPTOP PRO,Electronics,2.0,,,no,
+ORD_1000,2026-06-13,bob johnson,wireless mouse,Electronics,10.0,,,,1.0
+ORD_1268,2026-03-28,David G.,Smart Watch,Accessories,4.0,699.99,  crypto ,no,2.0
+ORD_1272,2026-02-18,Emma W.,wireless mouse,Electronics,4.0,29.99,  crypto ,N,4.0
+ORD_1100,2026-01-15,,laptop Pro,  Computers ,100.0,1099.99,,Yes,99.0
+ORD_1259,2026-04-16, Charlie Brown,headPHONES,  Computers ,5.0,99.99,Credit Card,YES,3.0
+ORD_1255,2026-06-18,Alice Smith,headPHONES,Accessories,10.0,699.99,CREDIT CARD,YES,2.0
+ORD_1171,2026-05-10,Alice Smith,Smart Watch,,100.0,29.99,,Yes,5.0
+ORD_1098,2026-06-25,bob johnson, iPhone 15 ,Accessories,3.0,,Credit Card,Yes,3.0
+ORD_1036,2026-03-13,David G.,LAPTOP PRO,,4.0,-45.0,Credit Card,YES,3.0
+ORD_1061,2026-06-30,Emma W.,laptop Pro,elec.,,,  crypto ,YES,2.0
+ORD_1150,2026-06-24,bob johnson,laptop Pro,elec.,100.0,1099.99,  crypto ,YES,4.0
+ORD_1236,2026-03-26, Charlie Brown,wireless mouse,Electronics,3.0,1099.99,Cash,,2.0
+ORD_1202,2026-03-09,,usb-c cable,,2.0,29.99,Credit Card,YES,
+ORD_1242,2026-05-05,Emma W., iPhone 15 ,elec.,,1099.99,  crypto ,N,3.0
+ORD_1011,2026-06-01,ALICE SMITH,laptop Pro,  Computers ,1.0,29.99,CREDIT CARD,Yes,4.0
+ORD_1155,2026-06-14,ALICE SMITH,laptop Pro,  Computers ,100.0,29.99,paypal,,99.0
+ORD_1267,2026-04-14,ALICE SMITH, iPhone 15 ,,10.0,,Cash,YES,5.0
+ORD_1027,2026-02-26,Emma W.,laptop Pro,Accessories,1.0,1099.99,CREDIT CARD,Yes,99.0
+ORD_1219,2026-03-05,ALICE SMITH, iPhone 15 ,Accessories,100.0,1099.99,  crypto ,,99.0
+ORD_1004,2026-03-04,bob johnson,LAPTOP PRO,elec.,2.0,,  crypto ,N,2.0
+ORD_1122,2026-03-09, Charlie Brown,laptop Pro,elec.,1.0,29.99,  crypto ,Yes,5.0
+ORD_1032,2026-02-10,Alice Smith,usb-c cable,ACCESSORIES,100.0,1099.99,CREDIT CARD,Yes,1.0
+ORD_1204,2026-06-05,,headPHONES,Accessories,4.0,1099.99,Credit Card,YES,4.0
+ORD_1162,2026-01-01,David G.,Smart Watch,Electronics,,1099.99,Credit Card,Yes,1.0
+ORD_1209,2026-02-21,bob johnson,LAPTOP PRO,elec.,1.0,699.99,paypal,no,99.0
+ORD_1285,2026-01-13,ALICE SMITH, iPhone 15 ,,3.0,29.99,paypal,YES,2.0
+ORD_1138,2026-06-24,Alice Smith,laptop Pro,elec.,100.0,29.99,paypal,Yes,
+ORD_1062,2026-01-18,David G.,laptop Pro,ACCESSORIES,10.0,99.99,,Yes,5.0
+ORD_1135,2026-02-09, Charlie Brown,Smart Watch,Accessories,2.0,,Cash,YES,4.0
+ORD_1128,2026-02-26,bob johnson,headPHONES,,,-45.0,CREDIT CARD,,2.0
+ORD_1290,2026-03-02, Charlie Brown,usb-c cable,ACCESSORIES,1.0,-45.0,CREDIT CARD,N,1.0
+ORD_1008,2026-06-23, Charlie Brown,wireless mouse,,100.0,699.99,,YES,1.0
+ORD_1070,2026-04-08, Charlie Brown, iPhone 15 ,Accessories,100.0,1099.99,  crypto ,YES,
+ORD_1264,2026-06-15,David G.,laptop Pro,  Computers ,4.0,29.99,Cash,,99.0
+ORD_1064,2026-06-19,David G., iPhone 15 ,Accessories,1.0,1099.99,Credit Card,Yes,4.0
+ORD_1044,2026-04-02,bob johnson,laptop Pro,  Computers ,100.0,-45.0,,YES,5.0
+ORD_1279,2026-04-29,Emma W.,usb-c cable,Accessories,3.0,699.99,Credit Card,,
+ORD_1156,2026-03-29,David G.,usb-c cable,Accessories,5.0,29.99,paypal,no,5.0
+ORD_1040,2026-01-27,Alice Smith,LAPTOP PRO,ACCESSORIES,,699.99,Cash,N,4.0
+ORD_1123,2026-05-30, Charlie Brown,usb-c cable,elec.,10.0,699.99,Credit Card,Yes,2.0
+ORD_1275,2026-02-05,David G.,laptop Pro,  Computers ,10.0,29.99,,Yes,99.0
+ORD_1216,2026-05-13,,Smart Watch,,10.0,29.99,Cash,Yes,5.0
+ORD_1153,2026-05-18,David G.,LAPTOP PRO,Electronics,,,Cash,no,4.0
+ORD_1023,2026-06-16, Charlie Brown,headPHONES,ACCESSORIES,4.0,29.99,Credit Card,N,2.0
+ORD_1261,2026-01-14,,Smart Watch,ACCESSORIES,2.0,-45.0,Cash,N,4.0
+ORD_1110,2026-02-24,,Smart Watch,Accessories,2.0,29.99,,YES,
+ORD_1081,2026-06-29,Alice Smith,laptop Pro,elec.,1.0,1099.99,Credit Card,YES,5.0
+ORD_1207,2026-05-19,Emma W.,laptop Pro,elec.,2.0,29.99,Cash,Yes,3.0
+ORD_1212,2026-06-21,,Smart Watch,elec.,100.0,699.99,paypal,no,3.0
+ORD_1039,2026-03-28,bob johnson,Smart Watch,  Computers ,1.0,99.99,  crypto ,,1.0
+ORD_1240,2026-03-13, Charlie Brown,wireless mouse,elec.,,1099.99,Cash,YES,5.0
+ORD_1291,2026-02-12,Emma W.,LAPTOP PRO,,3.0,99.99,Credit Card,N,2.0
+ORD_1258,2026-04-19,ALICE SMITH,laptop Pro,Accessories,,29.99,Credit Card,YES,4.0
+ORD_1199,2026-05-02,bob johnson, iPhone 15 ,,10.0,-45.0,Credit Card,YES,3.0
+ORD_1014,2026-01-08,Emma W.,LAPTOP PRO,  Computers ,10.0,99.99,paypal,Yes,
+ORD_1047,2026-03-09,Alice Smith,wireless mouse,elec.,100.0,1099.99,  crypto ,YES,5.0
+ORD_1094,2026-06-13,Alice Smith,headPHONES,elec.,100.0,-45.0,,Yes,5.0
+ORD_1263,2026-06-17,ALICE SMITH,laptop Pro,Electronics,2.0,-45.0,  crypto ,YES,
+ORD_1227,2026-05-31,,wireless mouse,Electronics,2.0,-45.0,CREDIT CARD,Yes,
+ORD_1273,2026-05-18,ALICE SMITH,headPHONES,elec.,4.0,-45.0,  crypto ,no,
+ORD_1201,2026-02-12, Charlie Brown,wireless mouse,elec.,100.0,699.99,  crypto ,no,2.0
+ORD_1161,2026-04-27,bob johnson,wireless mouse,elec.,4.0,1099.99,Cash,N,
+ORD_1043,2026-01-25,,usb-c cable,,2.0,-45.0,  crypto ,no,99.0
+ORD_1217,2026-04-26,Alice Smith,usb-c cable,  Computers ,2.0,1099.99,Credit Card,,4.0
+ORD_1145,2026-04-30, Charlie Brown,wireless mouse,Electronics,1.0,29.99,,YES,1.0
+ORD_1190,2026-05-26,bob johnson,Smart Watch,ACCESSORIES,3.0,29.99,paypal,,4.0
+ORD_1220,2026-02-27,bob johnson,usb-c cable,Electronics,1.0,99.99,CREDIT CARD,,3.0
+ORD_1251,2026-04-15, Charlie Brown, iPhone 15 ,ACCESSORIES,100.0,99.99,  crypto ,N,
+ORD_1003,2026-03-12,Alice Smith,usb-c cable,,10.0,29.99,  crypto ,N,4.0
+ORD_1105,2026-03-10,,headPHONES,  Computers ,10.0,29.99,,,1.0
+ORD_1053,2026-01-21,David G., iPhone 15 ,  Computers ,4.0,-45.0,  crypto ,N,4.0
+ORD_1133,2026-01-13,David G.,headPHONES,Electronics,3.0,29.99,paypal,no,99.0
+ORD_1001,2026-01-29,,Smart Watch,  Computers ,,1099.99,Cash,,4.0
+ORD_1131,2026-05-07,,usb-c cable,  Computers ,,,CREDIT CARD,YES,
+ORD_1103,2026-03-22, Charlie Brown,LAPTOP PRO,ACCESSORIES,,1099.99,CREDIT CARD,YES,3.0
+ORD_1049,2026-04-28,,usb-c cable,Accessories,5.0,-45.0,paypal,Yes,5.0
+ORD_1080,2026-03-10,,LAPTOP PRO,  Computers ,,,  crypto ,N,3.0
+ORD_1205,2026-04-19,Emma W.,LAPTOP PRO,,,-45.0,paypal,,3.0
+ORD_1034,2026-04-19,David G.,LAPTOP PRO,,2.0,29.99,Credit Card,Yes,5.0
+ORD_1091,2026-04-29, Charlie Brown,LAPTOP PRO,elec.,2.0,99.99,CREDIT CARD,YES,5.0
+ORD_1052,2026-04-07,Alice Smith,wireless mouse,ACCESSORIES,100.0,-45.0,Cash,N,1.0
+ORD_1241,2026-06-21, Charlie Brown,headPHONES,Accessories,3.0,-45.0,Cash,YES,
+ORD_1013,2026-01-09,ALICE SMITH,usb-c cable,Accessories,2.0,-45.0,CREDIT CARD,no,99.0
+ORD_1088,2026-05-17,David G.,headPHONES,Electronics,1.0,,  crypto ,Yes,3.0
+ORD_1166,2026-05-10,David G.,laptop Pro,Electronics,1.0,699.99,,YES,2.0
+ORD_1294,2026-05-04,Emma W.,laptop Pro,ACCESSORIES,3.0,99.99,  crypto ,Yes,2.0
+ORD_1134,2026-01-29,ALICE SMITH,headPHONES,elec.,3.0,-45.0,CREDIT CARD,,99.0
+ORD_1287,2026-05-19,Emma W., iPhone 15 ,Accessories,10.0,699.99,,no,
+ORD_1243,2026-02-24,David G.,LAPTOP PRO,Electronics,2.0,,Credit Card,no,2.0
+ORD_1054,2026-05-22,bob johnson,headPHONES,  Computers ,100.0,1099.99,paypal,N,3.0
+ORD_1050,2026-05-18,bob johnson,usb-c cable,ACCESSORIES,,699.99,CREDIT CARD,YES,1.0
+ORD_1174,2026-02-09,,headPHONES,elec.,10.0,99.99,  crypto ,N,2.0
+ORD_1189,2026-03-03,Emma W.,usb-c cable,ACCESSORIES,,-45.0,paypal,,5.0
+ORD_1082,2026-06-24,Alice Smith,laptop Pro,,10.0,29.99,,N,3.0
+ORD_1187,2026-03-03,ALICE SMITH,Smart Watch,  Computers ,5.0,699.99,  crypto ,YES,
+ORD_1169,2026-03-18,ALICE SMITH,LAPTOP PRO,Electronics,1.0,-45.0,  crypto ,no,
+ORD_1058,2026-04-03,David G.,wireless mouse,Electronics,3.0,,CREDIT CARD,N,3.0
+ORD_1048,2026-01-12,Emma W.,Smart Watch,Electronics,5.0,-45.0,,YES,
+ORD_1235,2026-01-09, Charlie Brown,LAPTOP PRO,ACCESSORIES,4.0,29.99,CREDIT CARD,N,2.0
+ORD_1252,2026-02-18,bob johnson,headPHONES,Electronics,4.0,-45.0,  crypto ,N,5.0
+ORD_1021,2026-05-24,bob johnson,LAPTOP PRO,Accessories,,1099.99,CREDIT CARD,YES,1.0
+ORD_1160,2026-02-10,Emma W.,LAPTOP PRO,Accessories,2.0,1099.99,,no,
+ORD_1276,2026-04-19,,Smart Watch,  Computers ,3.0,-45.0,paypal,Yes,3.0
+ORD_1191,2026-01-21,bob johnson,headPHONES,Accessories,4.0,699.99,  crypto ,no,2.0
+ORD_1257,2026-04-01,David G.,laptop Pro,ACCESSORIES,1.0,1099.99,CREDIT CARD,no,1.0
+ORD_1149,2026-01-03, Charlie Brown, iPhone 15 ,,2.0,,CREDIT CARD,,2.0
+ORD_1130,2026-05-11,Emma W.,headPHONES,  Computers ,4.0,,CREDIT CARD,YES,
+ORD_1151,2026-01-30,Emma W.,laptop Pro,,10.0,29.99,paypal,YES,
+ORD_1099,2026-03-25,ALICE SMITH,Smart Watch,ACCESSORIES,2.0,29.99,  crypto ,no,4.0
+ORD_1087,2026-02-13,Alice Smith,headPHONES,ACCESSORIES,100.0,29.99,Credit Card,YES,99.0
+ORD_1214,2026-04-06,Alice Smith,LAPTOP PRO,ACCESSORIES,5.0,699.99,CREDIT CARD,,5.0
+ORD_1121,2026-05-18,bob johnson,LAPTOP PRO,,1.0,699.99,,no,5.0
+ORD_1261,2026-01-14,,Smart Watch,ACCESSORIES,2.0,-45.0,Cash,N,4.0
+ORD_1020,2026-01-07,ALICE SMITH,wireless mouse,,100.0,699.99,CREDIT CARD,,99.0
+ORD_1188,2026-01-15,David G.,usb-c cable,ACCESSORIES,10.0,99.99,Cash,no,3.0
+ORD_1071,2026-03-13,bob johnson,LAPTOP PRO,  Computers ,10.0,,  crypto ,Yes,3.0
+ORD_1106,2026-01-17,Emma W.,LAPTOP PRO,Accessories,,699.99,,Yes,4.0
+ORD_1270,2026-03-05, Charlie Brown,LAPTOP PRO,Accessories,4.0,699.99,Credit Card,Yes,
+ORD_1102,2026-01-09,Emma W., iPhone 15 ,Accessories,10.0,,CREDIT CARD,YES,3.0
